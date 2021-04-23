@@ -7,7 +7,7 @@ title: null
 
 Example text here.
 
-<img src="/images/DSC_1163_corrected_cropped_BW.jpg?raw=true/>"
+<img src="images/DSC_1163_corrected_cropped_BW.jpg?raw=true"/>
 
 ## Subtitle
 
