@@ -18,3 +18,5 @@ Example text here.
 - unordered sub-list
 
 [Example link to Google](https://www.google.com)
+
+[My Second Page](https://LerchLab.github.io/Second)
